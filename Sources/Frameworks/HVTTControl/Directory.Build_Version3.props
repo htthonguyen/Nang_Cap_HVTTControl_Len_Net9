@@ -1,0 +1,9 @@
+<Project>
+  <PropertyGroup>
+    <!-- Latest analyzer level for modern diagnostics -->
+    <AnalysisLevel>latest</AnalysisLevel>
+    <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
+    <!-- Để false giai đoạn đầu; có thể bật true sau khi sạch warning -->
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+  </PropertyGroup>
+</Project>
