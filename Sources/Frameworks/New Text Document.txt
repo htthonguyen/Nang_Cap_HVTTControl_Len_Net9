@@ -1,0 +1,1 @@
+Bạn hỗ trợ tiếng Việt dùm mình nhe; Mình muốn tối ưu và dọn toàn bộ project này; Trước đây project này là .Net 4.5; Giờ mình muốn chuyển nó lên .Net 4.8; Các giới hạn ở .Net 4.5 không support bạn bỏ hết thay bằng .Net 4.8 để performance nó tốt hơn nhe bạn

@@ -1,0 +1,50 @@
+# Visual Studio / .NET
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+[Dd]ebug/
+[Rr]elease/
+[Xx]64/
+[Xx]86/
+[Aa]ppx*/*
+[Tt]est[Rr]esults/
+[Aa]rtifacts/
+
+# NuGet
+packages/
+!packages/build/
+*.nupkg
+*.snupkg
+
+# Others
+_ReSharper*/
+*.resharper*
+[Tt]ools/
+node_modules/
+dist/
+**/*.cache
+*.pid
+*.tmp
+*.log
+*.svclog
+
+# Rider / VS Code / JetBrains
+.idea/
+.vscode/
+
+# Azure / Publish profiles
+PublishProfiles/
+*.pubxml
+*.pubxml.user
+
+# Windows image caches
+Thumbs.db
+[Dd]esktop.ini
